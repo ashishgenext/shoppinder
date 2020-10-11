@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shoppinder</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_item">Please add at least select 1 as quantity</string>
+    <string name="item_added">Added to cart.</string>
+    <string name="total">Rs %s</string>
+</resources>
